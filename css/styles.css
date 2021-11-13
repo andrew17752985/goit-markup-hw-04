@@ -244,10 +244,12 @@ img {
 }
 .social-list{
   display: flex;
+  justify-content: center;
 }
 .sicial-icon{
-  width: 44px;
-  height: 44px;
+  width: 20px;
+  height: 20px;
+  fill: var(--icon-color);
 }
 .command {
   background-color: var(--backgrond-section-color);
