@@ -434,3 +434,23 @@ border-radius: 0px 0px 4px 4px;
 .works-content {
   outline: 1px solid var(--background-color);
 }
+.footer-right {
+  display: block;
+  flex-direction: column;
+  margin-left: 70px;
+  width: 206px;
+}
+.footer-text {
+  margin-bottom: 20px;
+  font-weight: 700px;
+  font-size: 14px;
+  line-height: 1.14;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.footer-social-link {
+  background-color: #ffffff10;
+}
+.footer-sicial-icon {
+  fill: var(--white-color);
+}
