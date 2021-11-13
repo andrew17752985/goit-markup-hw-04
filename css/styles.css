@@ -301,6 +301,20 @@ border-radius: 0px 0px 4px 4px;
   color: var(--primary-text-color);
 }
             /* client */
+.client {
+  padding: 94px 0;
+}
+
+.client-title {
+  margin-top: 0;
+  margin-bottom: 50px;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.17;
+  text-align: center;
+  color: var(--dark-text-color);
+}
+
 
 .client-icon {
   width: 106px;
