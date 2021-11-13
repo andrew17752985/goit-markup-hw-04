@@ -238,7 +238,13 @@ img {
   margin-right: 30px;
 }
 /* --------------command-------------- */
-
+.social-item{
+  width: 44px;
+  height: 44px;
+}
+.social-list{
+  display: flex;
+}
 .command {
   background-color: var(--backgrond-section-color);
   /* padding-top: 94px;
