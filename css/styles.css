@@ -434,8 +434,14 @@ border-radius: 0px 0px 4px 4px;
 .works-content {
   outline: 1px solid var(--background-color);
 }
+.footer{
+  display: flex;
+}
+.footer-container {
+  justify-content: start;
+  align-items: baseline;
+}
 .footer-right {
-  display: block;
   flex-direction: column;
   margin-left: 70px;
   width: 206px;
