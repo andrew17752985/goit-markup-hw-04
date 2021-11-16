@@ -86,8 +86,8 @@ img {
   fill: var(--primary-text-color);
   margin-right: 10px;
 }
-.header-tel-item:hover,
-.header-tel-item:focus {
+.header-tel-item:hover .header-icon,
+.header-tel-item:focus .header-icon {
   fill: var(--accent-color);
 }
  
