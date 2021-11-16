@@ -80,6 +80,16 @@ img {
   color: #000;
  
 }
+.header-icon {
+  /* width: 16px;
+  height: 12px; */
+  fill: var(--primary-text-color);
+  margin-right: 10px;
+}
+.header-tel-item:hover,
+.header-tel-item:focus {
+  fill: var(--accent-color);
+}
  
 
 
