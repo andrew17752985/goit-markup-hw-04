@@ -90,8 +90,12 @@ img {
 .header-tel-item:focus .header-icon {
   fill: var(--accent-color);
 }
-.header-icon:focus{
-  fill: var(--accent-color);
+.header-link:focus,
+.header-link:hover,
+.current,
+.header-tel-link:focus,
+.header-tel-link:hover {
+  color: var(--accent-color);
 }
  
 
